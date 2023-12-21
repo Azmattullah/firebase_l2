@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "896744297494",
+    "project_id": "flutter-l2",
+    "storage_bucket": "flutter-l2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896744297494:android:6e2b48d987db509507d137",
+        "android_client_info": {
+          "package_name": "com.designduty.firebase_l2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIoyWyyGmmt2-HMXpIbb_sT75ABbD3a_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

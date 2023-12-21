@@ -1,0 +1,60 @@
+> Task :app:signingReport
+Variant: debug
+Config: debug
+Store: C:\Users\azmat\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 63:63:75:E9:11:F0:12:20:CC:BD:99:8E:E9:D7:EB:68
+SHA1: A0:FD:C9:76:96:7C:CD:C1:39:BA:01:6E:F2:18:2C:2A:8C:0D:A6:F7
+SHA-256: C8:30:C7:E4:B9:BA:4B:E8:33:86:E9:1F:15:F2:33:95:CE:03:61:F4:BC:2B:3E:AB:3A:13:A5:C8:18:01:7E:11
+Valid until: Sunday, 7 September, 2053
+----------
+Variant: release
+Config: debug
+Store: C:\Users\azmat\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 63:63:75:E9:11:F0:12:20:CC:BD:99:8E:E9:D7:EB:68
+SHA1: A0:FD:C9:76:96:7C:CD:C1:39:BA:01:6E:F2:18:2C:2A:8C:0D:A6:F7
+SHA-256: C8:30:C7:E4:B9:BA:4B:E8:33:86:E9:1F:15:F2:33:95:CE:03:61:F4:BC:2B:3E:AB:3A:13:A5:C8:18:01:7E:11
+Valid until: Sunday, 7 September, 2053
+----------
+Variant: profile
+Config: debug
+Store: C:\Users\azmat\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 63:63:75:E9:11:F0:12:20:CC:BD:99:8E:E9:D7:EB:68
+SHA1: A0:FD:C9:76:96:7C:CD:C1:39:BA:01:6E:F2:18:2C:2A:8C:0D:A6:F7
+SHA-256: C8:30:C7:E4:B9:BA:4B:E8:33:86:E9:1F:15:F2:33:95:CE:03:61:F4:BC:2B:3E:AB:3A:13:A5:C8:18:01:7E:11
+Valid until: Sunday, 7 September, 2053
+----------
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\azmat\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 63:63:75:E9:11:F0:12:20:CC:BD:99:8E:E9:D7:EB:68
+SHA1: A0:FD:C9:76:96:7C:CD:C1:39:BA:01:6E:F2:18:2C:2A:8C:0D:A6:F7
+SHA-256: C8:30:C7:E4:B9:BA:4B:E8:33:86:E9:1F:15:F2:33:95:CE:03:61:F4:BC:2B:3E:AB:3A:13:A5:C8:18:01:7E:11
+Valid until: Sunday, 7 September, 2053
+----------
+
+> Task :firebase_auth:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\azmat\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 63:63:75:E9:11:F0:12:20:CC:BD:99:8E:E9:D7:EB:68
+SHA1: A0:FD:C9:76:96:7C:CD:C1:39:BA:01:6E:F2:18:2C:2A:8C:0D:A6:F7
+SHA-256: C8:30:C7:E4:B9:BA:4B:E8:33:86:E9:1F:15:F2:33:95:CE:03:61:F4:BC:2B:3E:AB:3A:13:A5:C8:18:01:7E:11
+Valid until: Sunday, 7 September, 2053
+----------
+
+> Task :firebase_core:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\azmat\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 63:63:75:E9:11:F0:12:20:CC:BD:99:8E:E9:D7:EB:68
+SHA1: A0:FD:C9:76:96:7C:CD:C1:39:BA:01:6E:F2:18:2C:2A:8C:0D:A6:F7
+SHA-256: C8:30:C7:E4:B9:BA:4B:E8:33:86:E9:1F:15:F2:33:95:CE:03:61:F4:BC:2B:3E:AB:3A:13:A5:C8:18:01:7E:11
+Valid until: Sunday, 7 September, 2053
+----------
+BUILD SUCCESSFUL in 30s
